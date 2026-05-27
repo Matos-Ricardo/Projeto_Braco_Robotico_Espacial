@@ -1,7 +1,7 @@
 // =====================================================
 // BRAÇO ROBÓTICO ESPACIAL
 // Docking & Retrieval
-// VERSÃO FINAL - PINÇA REAL
+// VERSÃO FINAL
 // Compatível com Servo SG90
 // =====================================================
 
