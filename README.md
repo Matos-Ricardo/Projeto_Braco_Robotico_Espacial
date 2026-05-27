@@ -277,30 +277,6 @@ Para reduzir massa estrutural, foram adicionados furos ao modelo da garra, reduz
 
 ---
 
-# Estrutura do Repositório
-
-Projeto/
-
-src/
-
-braco_robotico.ino
-
-model/
-
-GS_V2.scad
-
-GS_V2.stl
-
-images/
-
-circuito.png
-
-modelo3D.png
-
-README.md
-
----
-
 # Conclusão
 
 O projeto integra eletrônica, programação e modelagem tridimensional em uma única solução funcional de braço robótico espacial.
